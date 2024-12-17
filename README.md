@@ -19,6 +19,7 @@ https://nvie.com/posts/a-successful-git-branching-model/
 senario 
 git conflict resolve 
 edit in branch dev3
+edit in branch dev2
 ### docker 
 ### database 
 ## Basic Web concept 
