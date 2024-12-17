@@ -18,6 +18,7 @@ https://nvie.com/posts/a-successful-git-branching-model/
 15. git revert 
 senario 
 git conflict resolve 
+edit in branch dev3
 edit in branch dev2
 ### docker 
 ### database 
